@@ -1,0 +1,4 @@
+# Created at 2021-08-02T08:25:06.422
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Personal\Web\Projects\Bright_Network_UK_Internship\google-code-sample\java\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
